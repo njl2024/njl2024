@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @njl2024
-- 👀 I’m interested in PowerBI, PMP, Controls
+- 👀 I’m interested in PowerBI, P6, Controls
 - 🌱 I’m currently learning WEB Connections in Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
